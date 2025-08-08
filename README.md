@@ -63,7 +63,7 @@ Nexxmart is a full-featured, responsive e-commerce web application developed as 
 4. **Start React frontend app:** npm run dev
 Open [http://localhost:3000](http://localhost:3000) to view the app.
 
-
+## Open Live - https://github.com/xsid-69/NexMart.git
 ---
 
 ## 🧑‍💻 Learning Outcomes
