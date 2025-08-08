@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "id": "ehf7w473hb",
+      "username": "xsid",
+      "email": "sid@gmail.com",
+      "password": "1234569",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "uJqZcvsn57hi3xJCMvYUO",
+      "name": "Siddhant Wankhade",
+      "username": "siddhant_w.69",
+      "email": "siddhantw291@gmail.com",
+      "password": "33",
+      "isAdmin": true,
+      "cart": [
+        {
+          "id": "3",
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://images.unsplash.com/photo-1591047139829-d91620649947?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amFja2V0fGVufDB8fDB8fHww",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "uyEzoSIoIfhSEMvCDxDN-",
+      "name": "Chetan",
+      "username": "cchetan",
+      "email": "chetan@c.com",
+      "password": "33",
+      "isAdmin": false,
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": 1851,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
+      "category": "men's clothing",
+      "image": "https://i.pinimg.com/736x/b0/51/48/b0514868266bf14914166427d72c0436.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Mens Cotton Jacket",
+      "price": 4657,
+      "description": "Great outerwear jackets for various seasons, suitable for hiking, camping, traveling and outdoor activities.",
+      "category": "men's clothing",
+      "image": "https://i.pinimg.com/736x/a8/f4/3f/a8f43fc70ac5ce09667238cbe7e3fe35.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "3",
+      "title": "Mens Casual Slim Fit",
+      "price": 1327,
+      "description": "The color could differ between screen and actual product. Detailed size info available in product description.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg?auto=compress&cs=tinysrgb&h=800",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "4",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 57685,
+      "description": "Inspired by the mythical water dragon, designed for love, abundance or protection.",
+      "category": "jewelery",
+      "image": "https://i.pinimg.com/736x/4b/02/a3/4b02a3a5d73ee8ef22d1351b567320b3.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "5",
+      "title": "Solid Gold Petite Micropave",
+      "price": 13944,
+      "description": "Satisfaction guaranteed. Return or exchange within 30 days. Designed and sold in the USA.",
+      "category": "jewelery",
+      "image": "https://i.pinimg.com/1200x/72/57/06/725706b9c393e4f6554560d9b52516a9.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "6",
+      "title": "White Gold Plated Princess",
+      "price": 831,
+      "description": "Classic wedding engagement diamond solitaire ring for her.",
+      "category": "jewelery",
+      "image": "https://i.pinimg.com/736x/a1/b6/5e/a1b65e41219937f3882e6cd7bd72d4a6.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": "7",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 911,
+      "description": "Rose gold plated double flared tunnel plug earrings crafted from 316L stainless steel.",
+      "category": "jewelery",
+      "image": "https://i.pinimg.com/736x/27/cc/0b/27cc0b3d3fd0a1c7e17d6555bc1f2679.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": "8",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 4727,
+      "description": "3-in-1 detachable fleece liner with adjustable hood and cuffs for cold weather comfort.",
+      "category": "women's clothing",
+      "image": "https://i.pinimg.com/1200x/41/db/b4/41dbb4327ad523abe0b048e4e3592ae5.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": "9",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 2486,
+      "description": "Faux leather jacket with removable hood, front pockets, and stitch detailing.",
+      "category": "women's clothing",
+      "image": "https://i.pinimg.com/736x/8e/3e/ed/8e3eed4a5d2ae5bb94702d0ba4520c69.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": "10",
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 3319,
+      "description": "Lightweight rain jacket with adjustable drawstring waist and lined hood.",
+      "category": "women's clothing",
+      "image": "https://i.pinimg.com/736x/eb/a0/81/eba08141d78d97f7391a27eadbf1f018.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": "11",
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
+      "price": 817,
+      "description": "95% Rayon, 5% Spandex, lightweight ribbed fabric with great stretch and comfort.",
+      "category": "women's clothing",
+      "image": "https://i.pinimg.com/736x/8e/32/d2/8e32d29fe1f8dc1d39a9f8261e32016d.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": "12",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 660,
+      "description": "Lightweight, breathable polyester shirt with moisture wicking fabric for added comfort.",
+      "category": "women's clothing",
+      "image": "https://i.pinimg.com/736x/99/3d/63/993d63a78f532ee603350b168c368623.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": "13",
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 1078,
+      "description": "95% Cotton, 5% Spandex casual short sleeve tee with letter print and V-neck design.",
+      "category": "women's clothing",
+      "image": "https://i.pinimg.com/736x/9f/85/3f/9f853fef4ee44d07e0b76f44e2fdee9c.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": "14",
+      "title": "Unisex Blue Winter Gloves",
+      "price": 1232,
+      "description": "Warm microfiber gloves suitable for winter and outdoor activities. Comfortable and soft.",
+      "category": "accessories",
+      "image": "https://i.pinimg.com/1200x/fb/73/a6/fb73a6cda2efe490b6641fc4768f26ad.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Men's Leather Watch Classic Design",
+      "price": 16150,
+      "description": "Classic men’s wristwatch with genuine leather strap and waterproof design.",
+      "category": "accessories",
+      "image": "https://i.pinimg.com/736x/f9/fa/a8/f9faa8af1ce8cedf01500dbba52068c5.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Women's Cotton Summer Dress",
+      "price": 1995,
+      "description": "Lightweight cotton dress, perfect for summer outings and casual wear.",
+      "category": "women's clothing",
+      "image": "https://i.pinimg.com/736x/42/8f/d7/428fd70e59855315cf2381cedbb4a4ae.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Men's Running Sneakers",
+      "price": 4490,
+      "description": "Lightweight, breathable running shoes with excellent grip and comfort.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&h=800"
+    }
+  ]
+}
