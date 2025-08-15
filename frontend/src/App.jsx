@@ -27,6 +27,7 @@ const App = () => {
 
   return (
     <div className='text-white  font-thin w-screen h-screen bg-white overflow-auto'>
+      <h1>{import.meta.env.VITE_APP_NEXMART}</h1>
       <ToastContainer/>
       <Nav/>
       <Mainroutes/>

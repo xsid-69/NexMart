@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
 	return (
-		<div className="w-full ">
+		<div className="w-full h-full">
 			<div className="relative h-[100vh] bg-gray-900">
-				<div className="absolute inset-0">
+				<div className="absolute inset-0  overflow-hidden">
 					<img
-						className="w-full h-[90vh] object-cover"
+						className="w-full h-screen object-cover "
 						src="https://images.unsplash.com/photo-1523381294911-8d3cead13475?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 						alt="Fashion"
 					/>

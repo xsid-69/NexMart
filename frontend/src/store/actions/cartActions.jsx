@@ -10,8 +10,10 @@ import {
     decrement,
     remove
 } from "../reducers/cartSlice";
+import { useNavigate } from "react-router-dom";
 
 export const asyncAddToCart = (user, product) => (dispatch) => {
+    const navigate = useNavigate();
     const updatedCart = [...user.cart];
     const productIndex = updatedCart.findIndex(
         (item) => item.id === product.id
@@ -23,9 +25,11 @@ export const asyncAddToCart = (user, product) => (dispatch) => {
         });
         dispatch(addToCart(updatedCart));
         dispatch(addToCartUser(updatedCart));
+        navigate("/cart");
     } else {
         dispatch(increment(product.id));
         dispatch(incrementUser(product.id));
+        navigate("/cart");
     }
 };
 
